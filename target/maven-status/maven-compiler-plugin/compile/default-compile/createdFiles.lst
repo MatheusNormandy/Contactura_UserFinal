@@ -1,0 +1,10 @@
+com\contactura\contactura\repository\ContacturaUserRepository.class
+com\contactura\contactura\service\CustomUserDetailService.class
+com\contactura\contactura\model\Contactura.class
+com\contactura\contactura\model\ContacturaUser.class
+com\contactura\contactura\PasswordEncoder.class
+com\contactura\contactura\repository\ContacturaRepository.class
+com\contactura\contactura\controller\ContacturaUserController.class
+com\contactura\contactura\ContacturaApplication.class
+com\contactura\contactura\config\SecurityConfig.class
+com\contactura\contactura\controller\ContacturaController.class
